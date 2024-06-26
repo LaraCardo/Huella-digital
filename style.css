@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #6196A6;
+} 
+.titulo{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background: #7776B3;
+  border: 3px solid rgb(244, 237, 204);
+}
+.titulo p{
+  font-size: 50px;
+  font-weight: bold;
+}
+.subtitulo p{
+  font-size: 30px;
+  font-weight: bold;
+  color:#A4CE95
+}
+.conten1{
+display:flex;
+justify-content: center;
+align-items:center;
+background: rgb(244, 237, 204);
+border: 3px solid rgb(112, 66, 100);
+}
+.conten1 img{
+  height:300px;
+  margin: 20px;
+}
